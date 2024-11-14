@@ -159,7 +159,7 @@ function cadastrarFornecedor(req,resp){
       <th scope="col">Nome Fantasia</th>
       <th scope="col">Endereço</th>
       <th scope="col">Cidade</th>
-      <th scope="col">estados</th>
+      <th scope="col">Estados</th>
       <th scope="col">Cep</th>
       <th scope="col">E-mail</th>
       <th scope="col">Telefone</th>
